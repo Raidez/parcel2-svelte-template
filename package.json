@@ -1,6 +1,4 @@
 {
-	"name": "parcel2-svelte-template",
-	"description": "Parcel 2 + Svelte starter kit",
 	"source": "src/index.html",
 	"browserslist": "> 0.5%, last 2 versions, not dead",
 	"devDependencies": {
@@ -10,7 +8,5 @@
 	"scripts": {
 		"start": "parcel",
 		"build": "parcel build"
-	},
-	"author": "Raidez <https://github.com/Raidez>",
-	"license": "MIT"
+	}
 }
